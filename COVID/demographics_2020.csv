@@ -1,7 +1,7 @@
 Country,N
 China,1440297825
 India,1382345085
-United States,331341050
+US,331341050
 Indonesia,274021604
 Pakistan,221612785
 Brazil,212821986
@@ -14,7 +14,7 @@ Ethiopia,115434444
 Philippines,109830324
 Egypt,102659126
 Vietnam,97490013
-DR Congo,90003954
+Congo (Kinshasa),90003954
 Turkey,84495243
 Iran,84176929
 Germany,83830972
@@ -51,7 +51,7 @@ Nepal,29225196
 Venezuela,28421581
 Madagascar,27808395
 Cameroon,26655083
-Côte d'Ivoire,26486282
+Cote d'Ivoire,26486282
 North Korea,25798588
 Australia,25550683
 Niger,24346468
@@ -84,7 +84,7 @@ Haiti,11426356
 Cuba,11325391
 South Sudan,11216250
 Dominican Republic,10866667
-Czech Republic (Czechia),10712481
+Czechia,10712481
 Greece,10413936
 Jordan,10220604
 Portugal,10191409
